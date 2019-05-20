@@ -1,4 +1,4 @@
-#Simple graphics builder
+# Simple graphics builder
 
 ![Image alt](https://github.com/SValentyn/Simple-graphics-builder/raw/master/image/window.png)
 
