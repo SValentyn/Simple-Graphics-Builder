@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="Windows-1251" standalone="no"?>
+<!DOCTYPE dataSheet SYSTEM "src/XML/XMLDTD.dtd">
+<dataSheet>
+    <data date="10.03.2018">
+        <x>1.1</x>
+        <y>1.01</y>
+    </data>
+    <data date="11.03.2018">
+        <x>2.2</x>
+        <y>2.3</y>
+    </data>
+    <data date="12.03.2018">
+        <x>3.3</x>
+        <y>3.05</y>
+    </data>
+    <data date="13.03.2018">
+        <x>4.4</x>
+        <y>4.28</y>
+    </data>
+    <data date="14.03.2018">
+        <x>5.5</x>
+        <y>5.75</y>
+    </data>
+    <data date="15.03.2018">
+        <x>6.6</x>
+        <y>6.48</y>
+    </data>
+    <data date="16.03.2018">
+        <x>7.7</x>
+        <y>7.84</y>
+    </data>
+</dataSheet>

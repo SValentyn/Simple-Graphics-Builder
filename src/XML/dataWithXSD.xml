@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<dataSheet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchenaLocation="XML/XMLSchema.xsd">
+    <data date="19.03.2018">
+        <x>1.1</x>
+        <y>1.01</y>
+    </data>
+    <data date="20.03.2018">
+        <x>2.2</x>
+        <y>2.30</y>
+    </data>
+    <data date="21.03.2018">
+        <x>3.3</x>
+        <y>3.05</y>
+    </data>
+    <data date="22.03.2018">
+        <x>4.4</x>
+        <y>4.28</y>
+    </data>
+    <data date="23.03.2018">
+        <x>5.5</x>
+        <y>5.75</y>
+    </data>
+    <data date="24.03.2018">
+        <x>6.6</x>
+        <y>6.48</y>
+    </data>
+    <data date="25.03.2018">
+        <x>7.7</x>
+        <y>7.84</y>
+    </data>
+</dataSheet>

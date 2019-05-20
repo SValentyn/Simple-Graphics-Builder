@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="dataSheet">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" name="data">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="x" type="xs:double"/>
+                            <xs:element name="y" type="xs:double"/>
+                        </xs:sequence>
+                        <xs:attribute name="date" type="xs:string" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
