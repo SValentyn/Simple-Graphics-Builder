@@ -3,6 +3,8 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
  
+ ---
+ 
 Description project: A program application is a program in which a tabular presentation of data is displayed on a graph (attached tasks in Russian.). The program has the ability to process XML files, that is, open and save data from a table to a file. The graphical interface of the application is developed using the Swing library.
  
  <p align="center">
